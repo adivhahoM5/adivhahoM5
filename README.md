@@ -11,4 +11,4 @@ Final-year BSc Information Technology student with practical experience in Pytho
 **Projects:** [Municipal Complaint System](https://github.com/adivhahoM5/The-Municipal-Complaint-Management-System) · [PhoneBook API](https://github.com/adivhahoM5/PhoneBookAPI) · [Financial Tracker](https://github.com/adivhahoM5/FinancialTracker)
 
 Open to roles, internships, and collaboration.  
-[Email](mailto:adivhahoM5@outlook.com) · [LinkedIn](https://linkedin.com/in/adivhahom5) · [Website](https://adivhahom5.github.io/myVirturalCV/)
+[Email](mailto:adivhahoM5@outlook.com) · [LinkedIn](https://linkedin.com/in/adivhahom5) · [Website](https://adivhahom5.netlify.app)
