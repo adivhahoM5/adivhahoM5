@@ -4,7 +4,7 @@
 South Africa · Open to relocate
 
 **Professional Summary**  
-Final-year BSc Information Technology student with practical experience in Python, C++, Java, and C#. Skilled in building software solutions and developing RESTful APIs with ASP.NET Core. Strong problem-solving ability and a solid grounding in software engineering principles. Seeking a software development role where I can contribute to reliable systems and continue growing as an engineer.
+Final-year BSc Information Technology student with practical experience in Python, C++, Java, and C#. Skilled in building software solutions and developing RESTful APIs with Fast API. Strong problem-solving ability and a solid grounding in software engineering principles. Seeking a software development role where I can contribute to reliable systems and continue growing as an engineer.
 
 **Stack:** `C#` · `ASP.NET Core` · `Python` · `JavaScript` · `Java` · `SQL` · `FastAPI` · `Git`
 
