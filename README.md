@@ -2,7 +2,7 @@
 
 
 **Professional Summary**  
-BSc in Information Technology graduate with practical experience in Python, C++, Java, and C#. Skilled in building software solutions and developing RESTful APIs with Fast API. Strong problem-solving ability and a solid grounding in software engineering principles. Seeking a software development role where I can contribute to reliable systems and continue growing as an engineer.
+BSc in IT graduate with practical experience in Python, C++, Java, and C#. Skilled in building software solutions and developing RESTful APIs with ASP.NET. Strong problem-solving ability and a solid grounding in software engineering principles. Seeking a software development role where I can contribute to reliable systems and continue growing as an engineer.
 
 **Stack:** `C#` · `ASP.NET Core` · `Python` · `JavaScript` · `Java` · `SQL` · `FastAPI` · `Git`
 
