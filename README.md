@@ -6,7 +6,9 @@ BSc in Information Technology graduate with practical experience in Python, C++,
 
 **Stack:** `C#` · `ASP.NET Core` · `Python` · `JavaScript` · `Java` · `SQL` · `FastAPI` · `Git`
 
-**Projects:** [Municipal Complaint System](https://github.com/adivhahoM5/The-Municipal-Complaint-Management-System) · [PhoneBook API](https://github.com/adivhahoM5/PhoneBookAPI) · [Financial Tracker](https://github.com/adivhahoM5/FinancialTracker)
+**Live Project :**[StudySphere AI](https://ystervarkies.github.io/StudySphere_AI/)
+
+**Projects Repos:** [Municipal Complaint System](https://github.com/adivhahoM5/The-Municipal-Complaint-Management-System) · [PhoneBook API](https://github.com/adivhahoM5/PhoneBookAPI) · [Financial Tracker](https://github.com/adivhahoM5/FinancialTracker)
 
 Open to roles, internships, and collaboration.  
 [Email](mailto:adivhahoM5@outlook.com) · [LinkedIn](https://linkedin.com/in/adivhahom5) · [Website](https://adivhahom5.netlify.app)
